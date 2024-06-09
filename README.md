@@ -11,7 +11,7 @@
 
 ## Screenshots
 
-![Radio Xiph Screenshot](https://github.com/leonuck/radio-xiph-qt/radio-xiph-qt.png.png)
+![Radio Xiph Screenshot](https://github.com/leonuck/radio-xiph-qt/radio-xiph-qt.png)
 
 ## Getting Started
 
