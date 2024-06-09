@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0ac3cf39c2d422e493d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "radio_xiph",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "radio_xiph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-radio_xiph-Debug-8d4988d1918c072c173c.json",
+					"name" : "radio_xiph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "radio_xiph_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-radio_xiph_autogen-Debug-f35c68a58c1127d61bd1.json",
+					"name" : "radio_xiph_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "radio_xiph_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-radio_xiph_autogen_timestamp_deps-Debug-696183894278aa5c2c09.json",
+					"name" : "radio_xiph_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/leo/projetos/radio_xiph/build/Desktop-Debug",
+		"source" : "/home/leo/projetos/radio_xiph"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
